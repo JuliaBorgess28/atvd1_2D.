@@ -1,0 +1,32 @@
+body {background-color: rgb(115, 230, 125);
+}
+h1{color: rgb(17, 5, 5);
+}
+.p1 {text-align: center;
+font-size: 150%;
+color:rgb(8, 32, 16)
+}
+.p2{border-width: 5px;
+border-color: rgb(240, 212, 177);
+border-style: outset;
+margin-left: 30%;
+margin-right: 30%;
+padding-left: 10%;
+}
+.p1 {background-color:rgb(115, 230, 125);
+}
+.p3 {border-width: 5px;
+border-color:rgb(240, 212, 177);
+border-style: inset;
+margin-left:10%;
+margin-right:50%;
+padding-left:10%;
+}
+.p4 {text-align: center;
+    border-width: 5px;
+    border-color:rgb(240, 212, 177)
+    border-style:solid;
+    margin-left:15%;
+    margin-right:20%;
+    padding-left:15%;
+    }
